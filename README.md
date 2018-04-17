@@ -30,6 +30,7 @@
 - [array of imports - images](https://github.com/facebook/create-react-app/issues/2545)
 - [templating in express](https://coligo.io/templating-node-and-express-apps-with-ejs/)
 - [more EJS templating](https://scotch.io/tutorials/use-ejs-to-template-your-node-application)
+- [nodejs module exports](http://www.tutorialsteacher.com/nodejs/nodejs-module-exports)
 - **Frameworks**
 
 ## Fonts
