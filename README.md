@@ -25,6 +25,7 @@
 
 ## JavaScript
 - [key codes](https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
+- [highlight.js - syntax hightlighting](https://github.com/isagalaev/highlight.js/) :heart:
 - [events](https://developer.mozilla.org/en-US/docs/Web/Events)
 - [Howler.js - Audio library for the modern web.](https://howlerjs.com/)
 - [array of imports - images](https://github.com/facebook/create-react-app/issues/2545)
