@@ -81,6 +81,7 @@
 - [Hexo](https://hexo.io/)
   - plugings
 - [Octopress](http://octopress.org/)
+- [prismic.io](https://prismic.io/)
 
 ### General
 - [Editor Config](https://gist.github.com/destinio/61a8229bf49112af598a07bf03e4abf3)
