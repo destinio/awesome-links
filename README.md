@@ -71,11 +71,16 @@
 - [List of Public APIs](https://github.com/toddmotto/public-apis)
 - [Public APIs in JSON form](https://api.publicapis.org/entries) :heart:
 
-### Server
+## Server
 - [ubumtu 16 Setup](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
 - [UFW](https://help.ubuntu.com/community/UFW)
 
-### Editors
+## Editors
+
+## Blogging
+- [Hexo](https://hexo.io/)
+  - plugings
+- [Octopress](http://octopress.org/)
 
 ### General
 - [Editor Config](https://gist.github.com/destinio/61a8229bf49112af598a07bf03e4abf3)
