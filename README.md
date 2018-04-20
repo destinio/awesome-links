@@ -62,6 +62,7 @@
 ## Blogging
 
 ## APIs
+- [fake data with faker and json-server](https://egghead.io/lessons/javascript-creating-demo-apis-with-json-server)
 - [random user info](https://randomuser.me/api)
 - [open trivia](https://opentdb.com/api_config.php)
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
