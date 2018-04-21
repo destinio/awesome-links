@@ -36,6 +36,9 @@
 ### Node
 - [awesome node](https://github.com/sindresorhus/awesome-nodejs)
 
+## Build Packs
+- [Poi - A zero-config bundler for the web](https://poi.js.org/)
+
 ## Fonts
 - [Font Support](https://www.cssfontstack.com/)
 - [Typebase](https://github.com/devinhunt/typebase.css)
