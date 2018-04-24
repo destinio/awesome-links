@@ -38,6 +38,7 @@
 
 ## Build Packs
 - [Poi - A zero-config bundler for the web](https://poi.js.org/)
+- (Parcel - Blazing fast, zero configuration web application bundler)[https://parceljs.org/]
 
 ## Fonts
 - [Font Support](https://www.cssfontstack.com/)
