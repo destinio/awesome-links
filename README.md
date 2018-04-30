@@ -77,6 +77,7 @@
 - [SpaceX - Open Api](https://github.com/r-spacex/SpaceX-API) - :heart:
 - [List of Public APIs](https://github.com/toddmotto/public-apis)
 - [Public APIs in JSON form](https://api.publicapis.org/entries) :heart:
+- [Meta Weather](https://www.metaweather.com/api/)
 
 ## Server
 - [ubumtu 16 Setup](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
