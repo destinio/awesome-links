@@ -1,3 +1,30 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Full-stack](#full-stack)
+- [Git](#git)
+- [CSS](#css)
+- [JavaScript](#javascript)
+  - [Node](#node)
+- [Build Packs](#build-packs)
+- [Fonts](#fonts)
+- [Icons](#icons)
+- [Images](#images)
+- [Command Line](#command-line)
+- [Simple Storage](#simple-storage)
+- [Database](#database)
+- [Code Playgrounds](#code-playgrounds)
+- [Blogging](#blogging)
+- [APIs](#apis)
+- [Server](#server)
+- [Editors](#editors)
+- [Blogging](#blogging-1)
+  - [General](#general)
+- [Other Lists](#other-lists)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Full-stack
 - [MEAN Stack](https://hackhands.com/how-to-get-started-on-the-mean-stack/)
 - [Stack Trends](https://stackshare.io/stacks)
@@ -93,6 +120,7 @@
 
 ### General
 - [Editor Config](https://gist.github.com/destinio/61a8229bf49112af598a07bf03e4abf3)
+- [markdown TOC](https://github.com/thlorenz/doctoc/blob/master/README.md)
 
 ## Other Lists
 - [JONAS' RESOURCES](http://codingheroes.io/resources/)
