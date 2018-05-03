@@ -1,3 +1,28 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Full-stack](#full-stack)
+- [Git](#git)
+- [CSS](#css)
+- [JavaScript](#javascript)
+- [Fonts](#fonts)
+- [Icons](#icons)
+- [Images](#images)
+- [Command Line](#command-line)
+- [Simple Storage](#simple-storage)
+- [Database](#database)
+- [Compilers](#compilers)
+- [Code Playgrounds](#code-playgrounds)
+- [Blogging](#blogging)
+- [APIs](#apis)
+- [Server](#server)
+- [Editors](#editors)
+- [General](#general)
+- [Other Lists](#other-lists)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Full-stack
 - [MEAN Stack](https://hackhands.com/how-to-get-started-on-the-mean-stack/)
 - [Stack Trends](https://stackshare.io/stacks)
@@ -51,6 +76,9 @@
 
 ## Database
 
+## Compilers
+- [beginners guide for webpack](https://medium.com/a-beginners-guide-for-webpack-2)
+
 ## Code Playgrounds
 - [StackBlitz](https://stackblitz.com/)
 - [CodeSandbox](https://codesandbox.io/)
@@ -69,13 +97,13 @@
 - [List of Public APIs](https://github.com/toddmotto/public-apis)
 - [Public APIs in JSON form](https://api.publicapis.org/entries) :heart:
 
-### Server
+## Server
 - [ubumtu 16 Setup](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
 - [UFW](https://help.ubuntu.com/community/UFW)
 
-### Editors
+## Editors
 
-### General
+## General
 - [Editor Config](https://gist.github.com/destinio/61a8229bf49112af598a07bf03e4abf3)
 
 ## Other Lists
