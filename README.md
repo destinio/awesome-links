@@ -6,18 +6,20 @@
 - [Git](#git)
 - [CSS](#css)
 - [JavaScript](#javascript)
+  - [Node](#node)
+- [Build Packs](#build-packs)
 - [Fonts](#fonts)
 - [Icons](#icons)
 - [Images](#images)
 - [Command Line](#command-line)
 - [Simple Storage](#simple-storage)
 - [Database](#database)
-- [Compilers](#compilers)
 - [Code Playgrounds](#code-playgrounds)
 - [Blogging](#blogging)
 - [APIs](#apis)
 - [Server](#server)
 - [Editors](#editors)
+- [Blogging](#blogging-1)
 - [General](#general)
 - [Other Lists](#other-lists)
 
@@ -50,12 +52,21 @@
 
 ## JavaScript
 - [key codes](https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
+- [highlight.js - syntax hightlighting](https://github.com/isagalaev/highlight.js/) :heart:
 - [events](https://developer.mozilla.org/en-US/docs/Web/Events)
 - [Howler.js - Audio library for the modern web.](https://howlerjs.com/)
 - [array of imports - images](https://github.com/facebook/create-react-app/issues/2545)
 - [templating in express](https://coligo.io/templating-node-and-express-apps-with-ejs/)
 - [more EJS templating](https://scotch.io/tutorials/use-ejs-to-template-your-node-application)
-- **Frameworks**
+- [nodejs module exports](http://www.tutorialsteacher.com/nodejs/nodejs-module-exports)
+
+### Node
+- [awesome node](https://github.com/sindresorhus/awesome-nodejs)
+
+## Build Packs
+- [Poi - A zero-config bundler for the web](https://poi.js.org/)
+- [Parcel - Blazing fast, zero configuration web application bundler](https://parceljs.org/)
+- [beginners guide for webpack](https://medium.com/a-beginners-guide-for-webpack-2)
 
 ## Fonts
 - [Font Support](https://www.cssfontstack.com/)
@@ -76,9 +87,6 @@
 
 ## Database
 
-## Compilers
-- [beginners guide for webpack](https://medium.com/a-beginners-guide-for-webpack-2)
-
 ## Code Playgrounds
 - [StackBlitz](https://stackblitz.com/)
 - [CodeSandbox](https://codesandbox.io/)
@@ -86,6 +94,7 @@
 ## Blogging
 
 ## APIs
+- [fake data with faker and json-server](https://egghead.io/lessons/javascript-creating-demo-apis-with-json-server)
 - [random user info](https://randomuser.me/api)
 - [open trivia](https://opentdb.com/api_config.php)
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
@@ -96,6 +105,7 @@
 - [SpaceX - Open Api](https://github.com/r-spacex/SpaceX-API) - :heart:
 - [List of Public APIs](https://github.com/toddmotto/public-apis)
 - [Public APIs in JSON form](https://api.publicapis.org/entries) :heart:
+- [Meta Weather](https://www.metaweather.com/api/)
 
 ## Server
 - [ubumtu 16 Setup](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
@@ -103,8 +113,15 @@
 
 ## Editors
 
+## Blogging
+- [Hexo](https://hexo.io/)
+  - plugings
+- [Octopress](http://octopress.org/)
+- [prismic.io](https://prismic.io/)
+
 ## General
 - [Editor Config](https://gist.github.com/destinio/61a8229bf49112af598a07bf03e4abf3)
+- [markdown TOC](https://github.com/thlorenz/doctoc/blob/master/README.md)
 
 ## Other Lists
 - [JONAS' RESOURCES](http://codingheroes.io/resources/)
