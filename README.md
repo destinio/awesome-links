@@ -117,6 +117,9 @@
 - [Octopress](http://octopress.org/)
 - [prismic.io](https://prismic.io/)
 
+## Learning
+- [Eloquent Javascript](http://eloquentjavascript.net/)
+
 ## General
 - [Editor Config](https://gist.github.com/destinio/61a8229bf49112af598a07bf03e4abf3)
 - [markdown TOC](https://github.com/thlorenz/doctoc/blob/master/README.md)
