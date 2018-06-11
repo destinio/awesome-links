@@ -78,6 +78,7 @@
 
 ## Command Line
 - [simple server - python](https://docs.python.org/2/library/simplehttpserver.html)
+- [Jazz up you command line](https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22)
 
 ## Simple Storage
 - [JSONBin](https://jsonbin.io/)
