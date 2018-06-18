@@ -126,5 +126,6 @@
 - [markdown TOC](https://github.com/thlorenz/doctoc/blob/master/README.md)
 
 ## Other Lists
+- [Front-end Dev Resource links - Medium](https://medium.com/@williammooney/resource-guide-for-front-end-web-development-44cf7eb33d44)
 - [JONAS' RESOURCES](http://codingheroes.io/resources/)
 - [Tools I wish I had known - not by me ;)](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-revisited-ffb715ffd23f)
