@@ -18,6 +18,7 @@
 - [Server](#server)
 - [Editors](#editors)
 - [Blogging](#blogging-1)
+- [Learning](#learning)
 - [General](#general)
 - [Other Lists](#other-lists)
 
@@ -119,6 +120,7 @@
 - [prismic.io](https://prismic.io/)
 
 ## Learning
+- [Best Sites to learning coding](https://medium.com/web-development-resources/the-best-websites-to-learn-coding-5e903400fdff)
 - [Eloquent Javascript](http://eloquentjavascript.net/)
 
 ## General
