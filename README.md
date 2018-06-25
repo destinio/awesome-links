@@ -51,6 +51,7 @@
 
 ## JavaScript
 - [key codes](https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
+- [30 Seconds of Code](https://30secondsofcode.org/)
 - [highlight.js - syntax hightlighting](https://github.com/isagalaev/highlight.js/) :heart:
 - [events](https://developer.mozilla.org/en-US/docs/Web/Events)
 - [Howler.js - Audio library for the modern web.](https://howlerjs.com/)
