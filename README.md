@@ -5,6 +5,7 @@
 - [CSS](#css)
 - [JavaScript](#javascript)
   - [Node](#node)
+- [Screen Scraping](https://scotch.io/tutorials/scraping-the-web-with-node-js)
 - [Build Packs](#build-packs)
 - [Fonts](#fonts)
 - [Icons](#icons)
