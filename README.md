@@ -5,7 +5,7 @@
 - [CSS](#css)
 - [JavaScript](#javascript)
   - [Node](#node)
-- [Screen Scraping](https://scotch.io/tutorials/scraping-the-web-with-node-js)
+- [Screen Scraping](#screen-scrapping)
 - [Build Packs](#build-packs)
 - [Fonts](#fonts)
 - [Icons](#icons)
@@ -63,6 +63,9 @@
 
 ### Node
 - [awesome node](https://github.com/sindresorhus/awesome-nodejs)
+
+## Screen Scrapping
+- [scrapping the wep with nodejs]((https://scotch.io/tutorials/scraping-the-web-with-node-js))
 
 ## Build Packs
 - [Poi - A zero-config bundler for the web](https://poi.js.org/)
