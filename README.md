@@ -63,6 +63,7 @@
 
 ### Node
 - [awesome node](https://github.com/sindresorhus/awesome-nodejs)
+- [rest api in nodejs with mongodb](https://medium.com/of-all-things-tech-progress/5-steps-to-build-a-rest-api-in-node-js-with-mongodb-e1f2113a39bd)
 
 ## Screen Scrapping
 - [scrapping the wep with nodejs]((https://scotch.io/tutorials/scraping-the-web-with-node-js))
