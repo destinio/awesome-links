@@ -51,6 +51,7 @@
   - [Paper]()
 
 ## JavaScript
+- [JS Style Guide](https://github.com/airbnb/javascript)
 - [key codes](https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
 - [30 Seconds of Code](https://30secondsofcode.org/)
 - [highlight.js - syntax hightlighting](https://github.com/isagalaev/highlight.js/) :heart:
