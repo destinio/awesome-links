@@ -61,6 +61,7 @@
 - [more EJS templating](https://scotch.io/tutorials/use-ejs-to-template-your-node-application)
 - [nodejs module exports](http://www.tutorialsteacher.com/nodejs/nodejs-module-exports)
 - [JavaScript and HTML DOM Reference](https://www.w3schools.com/jsreF/default.asp)
+- [Javascript Fundamentals](https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf)
 
 ### Node
 - [awesome node](https://github.com/sindresorhus/awesome-nodejs)
