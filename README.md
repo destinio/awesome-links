@@ -21,6 +21,7 @@
 - [Blogging](#blogging-1)
 - [Learning](#learning)
 - [General](#general)
+- [Random](#random)
 - [Other Lists](#other-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -135,6 +136,9 @@
 ## General
 - [Editor Config](https://gist.github.com/destinio/61a8229bf49112af598a07bf03e4abf3)
 - [markdown TOC](https://github.com/thlorenz/doctoc/blob/master/README.md)
+
+## Random
+- [coding music](https://medium.com/level-up-web/youtube-background-music-for-coding-99b592a74dc8)
 
 ## Other Lists
 - [Front-end Dev Resource links - Medium](https://medium.com/@williammooney/resource-guide-for-front-end-web-development-44cf7eb33d44)
