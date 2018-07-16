@@ -20,6 +20,7 @@
 - [Editors](#editors)
 - [Blogging](#blogging-1)
 - [Learning](#learning)
+- [Resources](#resources)
 - [General](#general)
 - [Random](#random)
 - [Other Lists](#other-lists)
@@ -132,6 +133,9 @@
 ## Learning
 - [Best Sites to learning coding](https://medium.com/web-development-resources/the-best-websites-to-learn-coding-5e903400fdff)
 - [Eloquent Javascript](http://eloquentjavascript.net/)
+
+## Resources
+-[Online Resources For Web Developers](https://gist.github.com/bradtraversy/61171a9b81586f5bc4c0ca1e2beb59ab)
 
 ## General
 - [Editor Config](https://gist.github.com/destinio/61a8229bf49112af598a07bf03e4abf3)
