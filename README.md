@@ -97,6 +97,7 @@
 ## Command Line
 - [simple server - python](https://docs.python.org/2/library/simplehttpserver.html)
 - [Jazz up you command line](https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22)
+- [style your terminal](https://medium.freecodecamp.org/how-you-can-style-your-terminal-like-medium-freecodecamp-or-any-way-you-want-f499234d48bc)
 
 ## Simple Storage
 - [JSONBin](https://jsonbin.io/)
