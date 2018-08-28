@@ -9,7 +9,7 @@
 - [Build Packs](#build-packs)
 - [Fonts](#fonts)
 - [Icons](#icons)
-- [Free Images](#images)
+- [Images](#images)
 - [Command Line](#command-line)
 - [Simple Storage](#simple-storage)
 - [Docker](#docker)
@@ -93,6 +93,7 @@
 
 ## Images
 - [Quick & simple image placeholders](https://placeholder.com/)
+- [Lazy Loading](https://github.com/Paul-Browne/lazyestload.js)
 
 ## Command Line
 - [simple server - python](https://docs.python.org/2/library/simplehttpserver.html)
