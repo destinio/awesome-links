@@ -66,6 +66,7 @@
 - [nodejs module exports](http://www.tutorialsteacher.com/nodejs/nodejs-module-exports)
 - [JavaScript and HTML DOM Reference](https://www.w3schools.com/jsreF/default.asp)
 - [Javascript Fundamentals](https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf)
+- [Charts](https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727)
 
 ### Node
 - [awesome node](https://github.com/sindresorhus/awesome-nodejs)
