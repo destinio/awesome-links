@@ -163,3 +163,7 @@
 - [Front-end Dev Resource links - Medium](https://medium.com/@williammooney/resource-guide-for-front-end-web-development-44cf7eb33d44)
 - [JONAS' RESOURCES](http://codingheroes.io/resources/)
 - [Tools I wish I had known - not by me ;)](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-revisited-ffb715ffd23f)
+
+
+## To Organize
+- https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
