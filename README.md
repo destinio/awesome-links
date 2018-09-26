@@ -109,6 +109,7 @@
 ## Docker
 - [Docker Cheatsheet](https://gist.github.com/bradtraversy/89fad226dc058a41b596d586022a9bd3)
 - [Docker Learning Video](https://www.youtube.com/watch?v=Kyx2PsuwomE)
+- [Info](https://medium.com/@jon.froiland/removing-docker-images-containers-and-volumes-with-ease-fdf16bebccec)
 
 ## Database
 
