@@ -14,6 +14,7 @@
 - [Simple Storage](#simple-storage)
 - [Docker](#docker)
 - [Database](#database)
+- [Java](#java)
 - [Code Playgrounds](#code-playgrounds)
 - [Blogging](#blogging)
 - [APIs](#apis)
@@ -112,6 +113,9 @@
 - [Info](https://medium.com/@jon.froiland/removing-docker-images-containers-and-volumes-with-ease-fdf16bebccec)
 
 ## Database
+
+## Java
+- [How to learn Java](https://medium.freecodecamp.org/these-are-the-best-free-courses-to-help-you-learn-java-8-and-java-9-a7615c8644ab)
 
 ## Code Playgrounds
 - [StackBlitz](https://stackblitz.com/)
