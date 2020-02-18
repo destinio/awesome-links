@@ -71,6 +71,7 @@
 - [Charts](https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727)
 
 ### Node
+- [node server install](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04)
 - [awesome node](https://github.com/sindresorhus/awesome-nodejs)
 - [rest api in nodejs with mongodb](https://medium.com/of-all-things-tech-progress/5-steps-to-build-a-rest-api-in-node-js-with-mongodb-e1f2113a39bd)
 
@@ -141,6 +142,7 @@
 
 ## Server
 - [NGINX Setup](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04)
+- [How To Install Nginx on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04)
 - [UFW](https://help.ubuntu.com/community/UFW)
 
 ## Editors
