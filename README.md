@@ -140,7 +140,7 @@
 - [Job Search](https://indreed.herokuapp.com/)
 
 ## Server
-- [ubumtu 16 Setup](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
+- [NGINX Setup](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04)
 - [UFW](https://help.ubuntu.com/community/UFW)
 
 ## Editors
